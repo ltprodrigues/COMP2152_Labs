@@ -1,0 +1,6 @@
+2026-02-20 11:29:23,ping,ping google.com,N/A,Failed
+2026-02-20 11:31:45,ping,google.com,2,Success
+2026-02-20 11:33:21,nslookup,nslookup georgebrown.ca,Not found,Failed
+2026-02-20 11:33:45,nslookup,georgebrown.ca,Not found,Failed
+2026-02-20 11:33:55,nslookup,google.com,Not found,Failed
+2026-02-20 11:34:58,nslookup,google.com,Not found,Failed
